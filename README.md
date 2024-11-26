@@ -22,4 +22,4 @@ RPCNodeChecker will provide the end user with a list of RPC Nodes currently avai
 Once a RPC Node is selected, 9capi will return the equivalent RPC Config URL which will overwrite the existing PlanetURL in the Nine Chronicles Launcher's config file.
 Thereby forcing a connection to a specific node.
 
-These changes can be undone, or changed to another RPC by simply clicking on another node on the application or pressing the "default" button.
+These changes can be undone, or changed to another RPC by simply clicking on another node on the application or pressing the "reset" button.
